@@ -1,4 +1,4 @@
-# 🛠️ Git Practice Log
+# 🛠️ chapter-intro
 
 Git을 활용한 버전 관리 및 협업 실습 내용 요약입니다.
 
