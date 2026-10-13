@@ -1,8 +1,8 @@
 # 🛠️ chapter-intro
 
-Git을 활용한 버전 관리 및 협업 실습 내용 요약입니다.
 
-| 구분 | 챕터 / 주제 | 주요 실습 내용 |
+
+| 구분 | 주제 | 주요 실습 내용 |
 | :--- | :--- | :--- |
 | **01** | **Living dangerously** | `form.txt` 파일 생성 및 내용 추가 |
 | **02** | **Making backups** | `form2_really_final.txt` 파일 생성 및 내용 추가 |
