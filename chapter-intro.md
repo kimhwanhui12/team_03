@@ -3,6 +3,16 @@
 ## Git 이란?
 Git은 분산형 버전 관리 시스템(DVCS)입니다. 코드나 문서의 변경 기록을 저장하고, 여러 사람이 동시에 작업할 수 있게 도와줍니다.
 
+
+
+| 구분 | 주제 | 주요 실습 내용 |
+| :--- | :--- | :--- |
+| **01** | **Living dangerously** | `form.txt` 파일 생성 및 내용 추가 |
+| **02** | **Making backups** | `form2_really_final.txt` 파일 생성 및 내용 추가 |
+| **03** | **Enter the time machine** | `git init`을 통한 로컬 저장소 초기화 |
+| **04** | **The command line** | `git init`을 통한 커맨드라인 환경 설정 |
+| **05** | **Your first commit** | `glass` 파일 수정 후 첫 번째 커밋 완료 |
+| **06** | **Working together** | `students` 파일 pull 후 수정 및 원격 저장소 push |
 ## 핵심 특징
 - 분산형: 모든 사용자가 전체 저장소 복사본을 가지고 있습니다.
 - 버전 기록: 파일이 언제, 누가, 무엇을 수정했는지 모두 남습니다.
